@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oy4NkKpm3XfBoCkszQ3Ao+SYewSCnw5boDQXCdLD79j+MUGXtKOy117V/z1VrE64e0UH1HysigOjVmw0JANa1g==",
+  "success": true,
+  "projectFilePath": "C:\\Course\\ASP.NET và ASP.NET Core\\Lesson_01\\Lesson_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanli\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\vanli\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vanli\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.0\\swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
+    "C:\\Users\\vanli\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "C:\\Users\\vanli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "C:\\Users\\vanli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Lesson_01 depends on Swashbuckle.AspNetCore (>= 6.2.3) but Swashbuckle.AspNetCore 6.2.3 was not found. An approximate best match of Swashbuckle.AspNetCore 6.3.0 was resolved.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
